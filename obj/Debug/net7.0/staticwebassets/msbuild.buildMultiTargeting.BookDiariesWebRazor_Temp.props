@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\BookDiariesWebRazor_Temp.props" />
+</Project>
